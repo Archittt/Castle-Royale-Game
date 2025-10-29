@@ -24,8 +24,8 @@ assets/
  ┣ 📁 exports/            # UI assets like background, logo, CTA button, fireworks
  ┣ 📁 sounds/             # Sound effects and background music
  ┣ 🎴 index.html          # Main game file
- ┣ 🎨 style.css           # Styling and layout
- ┗ ⚙️ script.js           # Game logic
+ ┣ 🗄 readme.md            # readme file
+ ┗ ⚙️ game.js             # Game logic
 ```
 
 ---
