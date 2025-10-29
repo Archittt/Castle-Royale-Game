@@ -34,7 +34,7 @@ assets/
 
 ### 1️⃣ Clone or Download the Game
 ```bash
-git clone https://github.com/yourusername/Solitaire-Castle-Royal.git
+git clone https://github.com/Archittt/Solitaire-Castle-Royal.git
 cd Solitaire-Castle-Royal
 ```
 
